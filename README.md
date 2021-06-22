@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lah.fagundes
+- 👋🏾 Hi, I’m @lah.fagundes
 - 👀 I’m interested in quality assurence
 - 🌱 I'm constantly evolving in learning
 - 💞️ I’m looking to collaborate on with automated testing for QA's
